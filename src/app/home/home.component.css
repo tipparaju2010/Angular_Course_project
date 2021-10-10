@@ -40,12 +40,25 @@
   text-overflow: ellipsis;
   font-weight: 500;
 }
+.location-find-div {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.locateme {
+  background-color: transparent;
+  border-width: 0px;
+  margin-top: 18px;
+  color: #686b78;
+  padding-right: 5px;
+}
 .location-find {
-  height: 60px;
-  line-height: normal;
-  padding-top: 10px;
+  height: 62px;
+  line-height: 60px;
   background-color: #fc8019;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 900;
   width: 100%;
+  margin: 0;
+  text-align: center;
+  color: #ffffff;
 }
