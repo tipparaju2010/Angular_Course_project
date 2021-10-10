@@ -76,3 +76,14 @@
   left: 25%;
   margin: -25px 0 0 -25px;
 }
+.home-img1 {
+  position: absolute;
+  left: calc(50% + 80px);
+  right: 0;
+  background-repeat: no-repeat;
+  height: 100%;
+  background-size: cover;
+  background-position: 100%;
+  top: 0;
+  background-color: hsla(26, 5%, 70%, 0.2);
+}
